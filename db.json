@@ -3,78 +3,94 @@
           {
                "id": 1,
                "name": "Gertrudis Tatterton",
-               "age": 18,
+               "password": 12345,
                "email": "gtatterton0@ehow.com"
           },
           {
                "id": 2,
                "name": "Gail Newbatt",
-               "age": 53,
+               "password": 12345,
                "email": "gnewbatt1@un.org"
           },
           {
                "id": 3,
                "name": "Walliw Wilstead",
-               "age": 49,
+               "password": 12345,
                "email": "wwilstead2@tripadvisor.com"
           },
           {
                "id": 4,
                "name": "Abran Proback",
-               "age": 29,
+               "password": 12345,
                "email": "aproback3@theglobeandmail.com"
           },
           {
                "id": 5,
                "name": "Roda Chappelow",
-               "age": 31,
+               "password": 12345,
                "email": "rchappelow4@oaic.gov.au"
           },
           {
                "id": 6,
                "name": "Karney Wylie",
-               "age": 22,
+               "password": 12345,
                "email": "kwylie5@miitbeian.gov.cn"
           },
           {
                "id": 7,
                "name": "Cammi Pimbley",
-               "age": 63,
+               "password": 12345,
                "email": "cpimbley6@nyu.edu"
           },
           {
                "id": 8,
                "name": "Gavra Manning",
-               "age": 43,
+               "password": 12345,
                "email": "gmanning7@lycos.com"
           },
           {
                "id": 9,
                "name": "Zachary Seward",
-               "age": 45,
+               "password": 12345,
                "email": "zseward8@oracle.com"
           },
           {
                "id": 10,
                "name": "Chucho Norssister",
-               "age": 20,
+               "password": 12345,
                "email": "cnorssister9@mayoclinic.com"
           }
      ],
-     "dogs": [
+     "companies": [
           {
                "id": 1,
-               "name": "Cherry",
-               "age": 2,
-               "place": "Visakhapatnam",
-               "gender": "Male"
+               "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+               "company_name": "HDFC Bank",
+               "company_type": "Bank",
+               "stock_exchange": "NSE",
+               "total_shares": 50000,
+               "cost_per_share": 4210,
+               "price_action": 12
           },
           {
-               "id": 1,
-               "name": "Tommy",
-               "age": 3,
-               "place": "Banglore",
-               "gender": "Female"
+               "id": 2,
+               "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+               "company_name": "Reliance Industries",
+               "company_type": "Oil",
+               "stock_exchange": "BSE",
+               "total_shares": 20000,
+               "cost_per_share": 2132,
+               "price_action": 4
+          },
+          {
+               "company_logo": "masai",
+               "company_name": "#shanti_venue",
+               "company_type": "",
+               "stock_exchange": "",
+               "total_shares": "900000000",
+               "cost_per_share": "1000000",
+               "price_action": "6525955",
+               "id": 3
           }
      ]
 }
