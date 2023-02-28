@@ -92,5 +92,139 @@
                "price_action": "6525955",
                "id": 3
           }
+     ],
+     "job": [
+          {
+               "id": 1,
+               "company": "Ellette",
+               "postedAt": "2021-03-30",
+               "city": "Gangtok",
+               "location": "American Samoa",
+               "role": "Frontend",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": " Backend Developer",
+               "language": "Java"
+          },
+          {
+               "id": 2,
+               "company": "Jinny",
+               "postedAt": "2021-09-09",
+               "city": "Ludhiana",
+               "location": "Belgium",
+               "role": "FullStack",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Junior Frontend Developer",
+               "language": "Java"
+          },
+          {
+               "id": 3,
+               "company": "Ellette",
+               "postedAt": "2021-03-30",
+               "city": "Gangtok",
+               "location": "American Samoa",
+               "role": "Frontend",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Backend Developer",
+               "language": "Java"
+          },
+          {
+               "id": 4,
+               "company": "Jinny",
+               "postedAt": "2021-09-09",
+               "city": "Ludhiana",
+               "location": "Belgium",
+               "role": "FullStack",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Junior Frontend Developer",
+               "language": "C"
+          },
+          {
+               "id": 5,
+               "company": "Jinny",
+               "postedAt": "2021-09-09",
+               "city": "Ludhiana",
+               "location": "Belgium",
+               "role": "FullStack",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Junior Frontend Developer",
+               "language": "Javascript"
+          },
+          {
+               "id": 6,
+               "company": "Jinny",
+               "postedAt": "2021-09-09",
+               "city": "Ludhiana",
+               "location": "Belgium",
+               "role": "Backend",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Junior Frontend Developer",
+               "language": "C++"
+          },
+          {
+               "id": 7,
+               "company": "Jinny",
+               "postedAt": "2021-09-09",
+               "city": "Ludhiana",
+               "location": "Belgium",
+               "role": "Frontend",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Junior Frontend Developer",
+               "language": "Java"
+          },
+          {
+               "company": "Apple",
+               "postedAt": "1970-01-01T00:00:00.000Z",
+               "city": "BLG",
+               "location": "India",
+               "role": "Frontend",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Junior Frontend Developer",
+               "language": "Javascript",
+               "id": 8
+          },
+          {
+               "company": "masai school",
+               "postedAt": "1970-01-01T00:00:00.000Z",
+               "city": "Sewarhi",
+               "location": "Tamkuhi Raj",
+               "role": "Backend",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Junior Frontend Developer",
+               "language": "Java",
+               "id": 9
+          },
+          {
+               "company": "masai school",
+               "postedAt": "1970-01-01T00:00:00.000Z",
+               "city": "Sewarhi",
+               "location": "Tamkuhi Raj",
+               "role": "Backend",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Junior Frontend Developer",
+               "language": "Java",
+               "id": 10
+          },
+          {
+               "company": "masai school",
+               "postedAt": "1970-01-01T00:00:00.000Z",
+               "city": "Sewarhi",
+               "location": "Tamkuhi Raj",
+               "role": "Backend",
+               "level": "Junior",
+               "contract": "Full Time",
+               "position": "Junior Frontend Developer",
+               "language": "Java",
+               "id": 11
+          }
      ]
 }
